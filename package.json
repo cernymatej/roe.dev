@@ -70,7 +70,7 @@
     "unenv": "^1.10.0",
     "unocss": "^0.64.0",
     "unplugin": "^1.15.0",
-    "vue": "3.5.12",
+    "vue": "3.5.13",
     "vue-router": "^4.4.5"
   },
   "devDependencies": {
@@ -109,7 +109,7 @@
       "@unhead/ssr": "1.11.11",
       "@unhead/vue": "1.11.11",
       "unhead": "1.11.11",
-      "vue": "3.5.12"
+      "vue": "3.5.13"
     },
     "patchedDependencies": {
       "@nuxt/image": "patches/@nuxt__image.patch"
